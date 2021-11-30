@@ -13,7 +13,7 @@
 + [2018](PaperList/2018.md)
 + [2019](PaperList/2019.md)
 + [2020](PaperList/2020.md)
-+ [2021](PaperList/2021.md)
++ **[2021](PaperList/2021.md)**
 
 ### Datasets
 
@@ -87,44 +87,32 @@ The Table came from [this survey paper](https://arxiv.org/pdf/1809.02165v1.pdf).
 
 - **[Objects365]** Objects365: A Large-Scale, High-Quality Dataset for Object Detection	| **[ICCV' 19]** | [`[link]`](https://www.biendata.com/competition/objects365/)
 
-### For Install Problem
+### Comuter Vision Top Conferences&Journals
 
-关于`pip`的install，可以选用国内源,参考如下的格式就行
+#### Conferences
 
-```
- pip install scrapy -i https://pypi.tuna.tsinghua.edu.cn/simple
-```
++ CVPR: International Conference on Computer Vision and Pattern Recognition
++ ICCV: International Conference on Computer Vision
++ ICML: International Conference on Machine Learning
++ NIPS: Annual Conference on Neural Information Processing Systems
++ AAAI: AAAI Conference on Artificial Intelligence
++ ACM MM: ACM International Conference on Multimedia
++ IJCAI: International Joint Conference on Artificial Intelligence
++ ECCV: European Conference on Computer Vision
 
-关于conda的install，可以选择换源.
+#### Journals
 
-windows用户如果无法创建`.condarc`文件可以先执行`conda config --set show_channel_urls yes`,之后可以修改成如下
-
-```
-channels:
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
-ssl_verify: true
-```
-
-如果需要pytorch的镜像可以考虑
-
-```
-conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
-```
-
-如果要换回conda的默认源
-
-```
-conda config --remove-key channels
-```
++ TPAMI: IEEE Trans on Pattern Analysis and Machine Intelligence
++ IJCV: International Journal of Computer Vision
++ TIP: IEEE Transactions on Image Processing
 
 ### Tools and utils
 
-+ [Connected Papers](https://www.connectedpapers.com/)
++ **[Connected Papers](https://www.connectedpapers.com/)**
 + [SCI-Hub](https://sci-hub.se/)
 + [Semanti Scholar](https://www.semanticscholar.org/)
 + [小绿鲸](https://www.xljsci.com/)
++ **[Paperwithcode](https://paperswithcode.com/)**
 
 ### References
 
