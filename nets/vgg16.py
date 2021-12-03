@@ -84,7 +84,7 @@ def vgg16(pretrained=False,progress=True,num_classes=1000):
         model.load_state_dict(state_dict,strict=False)
     if num_classes != 1000:
         model.classifier = nn.Sequential(
-            nn.Linear(512 * 7 * 7,496),
+            nn.Linear(512 * 7 * 7,4096),
             nn.ReLU(True),
             nn.Dropout(),
             nn.Linear(4096,4096),
