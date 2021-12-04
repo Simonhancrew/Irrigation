@@ -29,4 +29,3 @@ conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/
 ```
 conda config --remove-key channels
 ```
-
