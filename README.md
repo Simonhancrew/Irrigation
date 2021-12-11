@@ -93,6 +93,7 @@ The Table came from [this survey paper](https://arxiv.org/pdf/1809.02165v1.pdf).
 + [SCI-Hub](https://sci-hub.se/)
 + [Semanti Scholar](https://www.semanticscholar.org/)
 + [小绿鲸](https://www.xljsci.com/)
++ [readpaper](https://readpaper.com/)
 + **[Paperwithcode](https://paperswithcode.com/)**
 
 ### References
